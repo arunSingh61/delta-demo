@@ -1,2 +1,2 @@
 # delta-demo
-This is my Git Hub Demo Repository.
+This is my Git Hub Demo Repository!
